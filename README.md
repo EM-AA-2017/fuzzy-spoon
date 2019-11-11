@@ -1,7 +1,7 @@
 # This is my Markdown Header1 title
 
 ## From PluralSight course (H2)
-by Gele Evans
+by Gill Cleeren
 
 ### The basics
 - Sample item 1
